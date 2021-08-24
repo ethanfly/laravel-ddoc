@@ -1,5 +1,5 @@
 {
-    "name": "jormin/laravel-ddoc",
+    "name": "ethan/laravel-ddoc",
     "type": "library",
     "description": "每次开发项目时，总是会被要求提供数据字典，每次手动写文档太累了，所以写了这个扩展，自动读取数据库信息并显示在网页上，支持导出Html和PDF文件。",
     "keywords": [
@@ -7,13 +7,13 @@
         "Jormin",
         "DDoc"
     ],
-    "homepage": "https://github.com/jormin/laravel-ddoc",
+    "homepage": "https://github.com/ethan/laravel-ddoc",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jormin",
-            "email": "jorminxee@gmail.com",
-            "homepage": "https://blog.lerzen.com",
+            "name": "Ethan",
+            "email": "ethanfly@qq.com",
+            "homepage": "",
             "role": "Developer"
         }
     ],
